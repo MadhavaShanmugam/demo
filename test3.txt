@@ -1,8 +1,0 @@
-Hi 
-
-This Is Text 3 Reporting Here !
-
-Im Going to Edit This File and pull it back to vs code 
-
-Okay !
-
